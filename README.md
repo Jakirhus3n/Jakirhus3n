@@ -145,7 +145,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> _“Simplicity is the ultimate sophistication.”_ – Leonardo da Vinci
+> _“AI এর মাইরে বাপ.”_ – জাকির হোসেন
 
 ---
 
